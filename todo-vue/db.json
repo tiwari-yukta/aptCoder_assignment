@@ -1,0 +1,11 @@
+{
+  "todos": [
+    {
+      "title": "task 1",
+      "completed": false,
+      "createdAt": "May 6, 01:47 PM",
+      "id": "J783SiesqhY"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
